@@ -1,3 +1,27 @@
+.img {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+}
+
+.li {
+  width: calc(33.33% - 20px);
+  margin: 10px;
+}
+
+
+.span {
+  display: block;
+  text-align: left;
+}
+
+
 .main {
   display: flex;
   flex-direction: column;
@@ -228,3 +252,6 @@
     transform: rotate(0deg);
   }
 }
+
+
+

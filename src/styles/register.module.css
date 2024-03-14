@@ -1,0 +1,29 @@
+.registrationContainer {
+    width: 300px;
+    margin: auto;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.formLabel {
+    margin-bottom: 10px;
+}
+
+.formInput {
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.submitButton {
+    padding: 8px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

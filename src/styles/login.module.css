@@ -1,0 +1,29 @@
+.loginContainer {
+  width: 300px;
+  margin: auto;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.loginForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.loginLabel {
+  margin-bottom: 10px;
+}
+
+.loginInput {
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.loginButton {
+  padding: 8px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.error {
+    color: red;
+}
+
+.loading {
+    font-style: italic;
+    color: #888;
+}
+
+.result {
+    font-size: 30px;
+    color: forestgreen;
+}
